@@ -1,0 +1,8 @@
+translations/
+instances/
+cache/
+meta/
+logs/
+
+accounts.json
+metacache
