@@ -1,8 +1,12 @@
-translations/
-instances/
-cache/
-meta/
-logs/
+*
 
-accounts.json
-metacache
+!prismlauncher.cfg
+!README.md
+!themes/**
+!skins/**
+!iconthemes/**
+!catpacks/**
+
+!*/
+
+instances/
